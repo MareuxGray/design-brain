@@ -10,6 +10,14 @@ Shared guidance and reference for making Roblox games. Game-specific details don
 - In `games\`, entries marked **K** come from AI model knowledge. Verify them before relying on them.
 - Roblox policies and trends change quickly. Re-check official docs before launch. The games data is a snapshot from 24 October 2026.
 
+## Guides and agents
+
+| File | Use it for |
+|---|---|
+| [subagents](guides/subagents.md) | The team, the art pipeline, and when the Architect asks the user |
+| [token-usage](guides/token-usage.md) | Keeping work within the user's plan limits |
+| [agents](agents/) | Master copies of the shared agents. Publish changes with `tools/publish-agents.sh` |
+
 ## Research
 
 | File | Use it for |
