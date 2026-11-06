@@ -26,6 +26,10 @@ Legend in `README.md`. 2026 context: top-10 churn is fast. New hits reach the to
 | Jump for Animals! | Steal / hatch | Train jump, steal guarded eggs, offline-earning pets | Steal An Egg-type merge | VH | S |
 | Clean all the leaves! | Story / chore | Rake a yard before friends return, uncover their secret | Chore + mystery reveal | M | S |
 | Search For The Needle | Time-trial puzzle | Find a needle in a haystack, beat your time | One-verb, joke premise | L | S |
+| Wash The House | Cleaning incremental | Clean a filthy mansion: return items, power-wash, buy better tools | Jun 2026 (Crystal Clean); 69K peak Aug, ~1K by late Oct, 92.5M visits (RoWatcher). Fast novelty fade: no social or tension layer | M | S |
+| Pressure Wash Incremental | Cleaning incremental | Power-wash surfaces, upgrade washer | Same chore-incremental wave | M | S |
+| Clean Crew | Co-op horror cleaning | Clean abandoned apartments, exterminate pests, carry a TV companion, classes; up to 5 friends, 50-player servers | Feb 2026; 8.4K peak May 2026, ~1–7K now, 32M visits, 94% (Rolimons). Proves horror cleaning works at small scale | L | S |
+| ASMR cleaning games (Clean your ASMR, Clean It! Cleaning ASMR, Clean the ASMR, Carpet Cleaning Simulator) | Calm cleaning | Clean objects for satisfying sounds and visuals | Many small titles, none breakout | M | S |
 | Greedy Growers | Risk sim | Grow a tree, harvest before lightning strikes | Push-your-luck on GAG | H | S |
 | Grow a Chicken Fighter | Sim / fighter | Hatch, fight, fuse chickens | Grow + fuse + battle | H | S |
 | 100 Days At Sea | Survival | Survive open ocean | 99 Nights day-count clone | H | S |

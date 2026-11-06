@@ -26,10 +26,13 @@ Use: before suggesting an idea, find its closest format here. VH means the forma
 | Social deduction | M | Murder Mystery 2, MvS Duels | | MM2 dominant |
 | Anime sports | M | Blue Lock Rivals, Volleyball Legends, Basketball Zero | Swap sport | Room left for new sports |
 | Train / vehicle journey survival | M | Dead Rails | | Single spike, few lasting clones |
+| Extraction (raid or loot a map, reach the exit, keep what you carry or lose it) | L | Project Delta (2021, ~3K CCU, 162M visits), Blight Grab (zombie PvE+PvP, peak ~3K Jul 2026), HUSH [Zombie Extraction] (launched 30 Sep 2026, date to confirm on the game's page; ~6K peak CCU, 7.3M visits, 92% likes by 24 Oct, Rolimons), Drifters (Look North World, Bungie co-founder; announced Jul 2026) | Tarkov-style; zombie and horror variants rising | No top-chart hit yet; niche, PC-leaning, hardcore loss model. Pro studios now entering, so the window is open but closing |
 | Forge / craft RPG | M | The Forge | | Faded after beta peak |
+| Robot arena combat (build or collect bots, PvP fights) | L | Build a Bot and Fight (build parts, fight, level up), Untitled Robot Boxing (alpha, ranked boxing) | | No top-50 entry found Oct 2026; closest charting merge is Grow a Chicken Fighter (hatch, fight, fuse) |
 | Co-op puzzle | L | Teamwork Puzzles | | Under-served |
 | Typed / AI-NPC games | L | AI Interrogation | | New, unproven |
 | Simple joke-premise tasks (find a needle, clean leaves) | L | Search For The Needle, Clean all the leaves! | | Small but viral-shaped |
+| Cleaning / gathering incremental (clean a big area, sell, upgrade the tool) | L→M, rising | Wash The House, Pressure Wash Incremental; on Steam: Moon Sweepers (DragDrop Games, toothbrush-to-vehicles moon dust cleaning, 16-player co-op, release 23 Oct 2026) and Too Many Balls (collect sports balls, upgrade basket and speed, Sep 2026, Mixed reviews) | Swap the mess or the place | Steam hits tend to spawn Roblox clones within weeks; Wash The House peaked at 69K then fell ~98%, so the plain loop needs a social or tension twist |
 
 ## Lasting vs short-lived (patterns in this database)
 
@@ -46,3 +49,5 @@ Short-lived (spike then −60–90% in 1–2 months: Animal Hospital, +1 Speed g
 - Short sessions (8–12 min) with no economy to return to.
 
 Biggest hits are merges: Steal An Egg = Steal a ___ + pets + speed stat; Plants vs Brainrots = PvZ + brainrot. Simple single-verb loops (plant, steal, run, fish) with visible progress reach the top; complexity is not required.
+
+Sources for the extraction row (Oct 2026): [Bloxodes: Project Delta stats](https://bloxodes.com/stats/games/project-delta-2862098693) · [NamuWiki: Project Delta](https://en.namu.wiki/w/Project%20Delta) · [RoWatcher: Blight Grab](https://rowatcher.com/games/9800424118/blight-grab) · [Pocket Tactics: Drifters](https://www.pockettactics.com/roblox/bungie-drifters)

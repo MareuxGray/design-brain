@@ -21,7 +21,7 @@ Shared guidance and reference for making Roblox games. Game-specific details don
 | [05-attention-shortform](research/05-attention-shortform.md) | Onboarding, the first minute, short-form culture, icons, thumbnails and titles |
 | [06-social-virality](research/06-social-virality.md) | Why content gets shared, growth tools, trend lifecycles, creators, social risks |
 | [07-compulsion-loops](research/07-compulsion-loops.md) | Loops, return hooks, progression, prestige, healthy vs exploitative design |
-| [08-roblox-platform](research/08-roblox-platform.md) | Discovery, retention benchmarks, terms and compliance, live ops |
+| [08-roblox-platform](research/08-roblox-platform.md) | Discovery, retention benchmarks, terms and compliance, horror maturity labels, gambling rules, live ops, audio and physics limits |
 | [09-virality-saturation](research/09-virality-saturation.md) | Simple mechanics, remakes, saturation, longevity, originality checks |
 
 ## Games
